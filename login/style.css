@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+*{
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container h3{
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 30px;
+}
+.container h4{
+  font-size: 12px;
+  line-height: 25px
+}
+.container form button{
+width: 146px;
+height: 45px;
+border-radius: 73px;
+left: 648px;
+top: 677px;
+background: #ABC6DE;
+}
+.container form{
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: normal;
+}
+.container form .register{
+width: 82px;
+height: 30px;
+left: 875px;
+top: 615px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: 300;
+font-size: 12px;
+}
